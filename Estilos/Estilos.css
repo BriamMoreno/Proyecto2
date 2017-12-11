@@ -167,7 +167,7 @@ transform: translate(20px, 5px);
 }
 
 }
-@media (max-width:400px) {
+@media (max-width:899px) {
 header{
   background-color: #5b7989;
   border-radius: 10px 10px 0 0;
